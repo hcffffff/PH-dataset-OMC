@@ -1,0 +1,6 @@
+auth_3:
+ api_key: 
+ proxy: http://127.0.0.1:7890
+ requests_per_min: 3500
+ tokens_per_min: 40000
+
